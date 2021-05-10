@@ -1,9 +1,9 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Azure Cloud Norway"
-  heading_2 : "All events in one place"
-  content : "02-05 July 2017 California"
+  heading : "Azure Cloud"
+  heading_2 : "Norway"
+  content : "All Azure events in one place."
   timer:
     enable : true
     year : 2021
@@ -18,7 +18,7 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About The _Eventre_"
+  title : "About _AzureCloud_"
   image : "images/speakers/featured-speaker.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
@@ -36,7 +36,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Who _Speaking?_"
+  title : "Who _are we?_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
@@ -47,144 +47,21 @@ tab:
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   tablist:
   # tab item
-  - name : "Day-01"
-    date : "20 November 2017"
+  - name : "Azure"
+    date : ""
     tablist_items:
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "DEVREAL.io"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
+      subject : "Azure in a Nutshell"
+      venue : "<a href='https://www.devreal.io'>DEVREAL.io</a>"
+      time : "11 Mai 18:00 CET"
 
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-      
-  # tab item
-  - name : "Day-02"
-    date : "23 November 2017"
-    tablist_items:
-    # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "Chris Reddington"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-      
-  # tab item
-  - name : "Day-03"
-    date : "25 November 2017"
-    tablist_items:
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
+      subject : "Static Web Apps in Azure"
+      venue : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691938/'>Azure Meetup Oslo</a>"
+      time : "9 June 18:00 CET"
 
 
 ############ Registration ####################

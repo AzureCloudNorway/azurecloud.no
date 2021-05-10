@@ -30,7 +30,7 @@ testimonial:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About The _Eventre_
+## About _AzureCloud_
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
 magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.

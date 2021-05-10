@@ -6,5 +6,5 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores
 draft : false
 ---
 
-## Who _Speaking?_
+## Who _are we?_
 Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore
