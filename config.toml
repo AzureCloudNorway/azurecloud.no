@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.azurecloud.no"
-title = "Eventre Hugo | Event Management Template"
+title = "Azure Cloud Norway"
 theme = "azurecloud"
 themesDir = "themes"
 # post pagination
@@ -133,7 +133,7 @@ author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Malvik Media 2021"
 
 # Preloader
 [params.preloader]
