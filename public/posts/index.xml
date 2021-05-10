@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Azure Cloud Norway</title>
+    <link>https://azurecloud.no/posts/</link>
+    <description>Recent content in Posts on Azure Cloud Norway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 18:55:59 +0200</lastBuildDate><atom:link href="https://azurecloud.no/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://azurecloud.no/posts/my-first-post/</link>
+      <pubDate>Mon, 10 May 2021 18:55:59 +0200</pubDate>
+      
+      <guid>https://azurecloud.no/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
