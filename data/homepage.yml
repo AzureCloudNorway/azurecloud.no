@@ -51,13 +51,13 @@ tab:
     date : ""
     tablist_items:
     # speaker
-    - speaker : "<a href=''>DEVREAL.io</a>"
+    - speaker : "DEVREAL.io"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Azure in a Nutshell"
       venue : "<a href='https://www.devreal.io'>DEVREAL.io</a>"
       time : "11 Mai 18:00 CET"
 
-    - speaker : "<a href='speaker/speaker-7/'>Chris Redfington</a>"
+    - speaker : "Chris Redfington"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Static Web Apps in Azure"
       venue : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691938/'>Azure Meetup Oslo</a>"
