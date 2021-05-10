@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://azurecloud.no"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Azure Cloud Norway"
 theme = "azurecloud"
