@@ -11,8 +11,8 @@ banner:
     day : 1
   button:
     enable : true
-    label : "get ticket now"
-    link : "#"
+    label : "upcoming events"
+    link : "schedule"
 
     
 ################# About ###################
