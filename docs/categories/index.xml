@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Azure Cloud Norway</title>
+    <title>Categories on Eventre Hugo | Event Management Template</title>
     <link>https://azurecloud.no/categories/</link>
-    <description>Recent content in Categories on Azure Cloud Norway</description>
+    <description>Recent content in Categories on Eventre Hugo | Event Management Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://azurecloud.no/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://azurecloud.no/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business</title>
+      <link>https://azurecloud.no/categories/business/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creative</title>
+      <link>https://azurecloud.no/categories/creative/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://azurecloud.no/categories/events/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>object</title>
+      <link>https://azurecloud.no/categories/object/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>planner</title>
+      <link>https://azurecloud.no/categories/planner/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/planner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upcoming</title>
+      <link>https://azurecloud.no/categories/upcoming/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://azurecloud.no/categories/upcoming/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
