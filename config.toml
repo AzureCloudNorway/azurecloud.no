@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://azurecloud.no"
+baseURL = "https://www.azurecloud.no"
 title = "Eventre Hugo | Event Management Template"
 theme = "azurecloud"
 themesDir = "themes"
