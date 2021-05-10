@@ -1,8 +1,8 @@
 ################# Banner ###################
 banner:
   enable : true
-  heading : "Business"
-  heading_2 : "Conference 2017"
+  heading : "Azure Cloud"
+  heading_2 : "at Norway"
   content : "02-05 July 2017 California"
   timer:
     enable : true
