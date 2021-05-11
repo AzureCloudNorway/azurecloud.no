@@ -52,6 +52,7 @@
 		<ul class="address-list p-0 m-0">
 			<li><i class="fa fa-home"></i><span>{{ .location | markdownify }}</span></li>
 			<li><i class="fa fa-phone"></i><span>{{ .phone | markdownify}}</span></li>
+			<li><i class="fa fa-envelope"></i><span>{{ .email | markdownify}}</span></li>
 		</ul>
 		<a href="{{ .link | absURL }}" class="btn btn-white-md">Get Direction</a>
 	</div>

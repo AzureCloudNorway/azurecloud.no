@@ -34,10 +34,10 @@ about:
 #    enable : true
 #    label : "Buy ticket"
 #    link : "#"
-  button_outline:
-    enable : true
-    label : "Read more"
-    link : "about"
+#  button_outline:
+#    enable : true
+#    label : "Read more"
+#    link : "about"
 
     
 ################# Speaker ###################
