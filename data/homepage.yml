@@ -19,14 +19,20 @@ banner:
 about:
   enable : true
   title : "About _AzureCloud_"
-  image : "images/speakers/featured-speaker.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+  image : "images/speakers/1_sven.jpeg"
+  content : "Hi. My name is Sven Malvik and I am the organizers of Azure Meetup Oslo. 
+  We are one of several User Groups in Norway. 
+  Together, we want to provide you with interesting sessions and educational workshops, all about Azure and the tooling around.
   <br><br>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
-  button_solid:
-    enable : true
-    label : "Buy ticket"
-    link : "#"
+  AzureCloud is an initiative that will help you to find relevant Azure events. We collect all events of all Norwegian user groups at one place; see it as an umbrella. 
+  You can of course help us and add your own events as well. We want to be as inclusive as possible. Our common denominator is Azure.
+  <br><br>
+  -Sven
+  "
+#  button_solid:
+#    enable : true
+#    label : "Buy ticket"
+#    link : "#"
   button_outline:
     enable : true
     label : "Read more"
