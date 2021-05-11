@@ -25,7 +25,7 @@ about:
   Together, we want to provide you with interesting sessions and educational workshops, all about Azure and the tooling around.
   <br><br>
   AzureCloud is an initiative that was started by the organizers of the user groups to help you to find relevant Azure events. 
-  We put all events here and have them at one place; see it as an umbrella where our common denominator is Azure.
+  We put all events here and have at one place; see it as an umbrella where our common denominator is Azure.
   We want to be as inclusive as possible, so please contribute and send us your events. We are happy to share them.
   <br><br>
   -Sven
@@ -60,14 +60,14 @@ tab:
     # speaker
     - speaker : "DEVREAL.io"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Azure in a Nutshell"
-      venue : "<a href='https://www.devreal.io'>DEVREAL.io</a>"
+      subject : "<a href='https://www.devreal.io'>Azure in a Nutshell</a>"
+      venue : "DEVREAL.io"
       time : "11 Mai 18:00 CET"
 
     - speaker : "Chris Redfington"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Static Web Apps in Azure"
-      venue : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691938/'>Azure Meetup Oslo</a>"
+      subject : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691938/'>Static Web Apps in Azure</a>"
+      venue : "Azure Meetup Oslo"
       time : "9 June 18:00 CET"
 
 
@@ -96,7 +96,7 @@ registration:
 
 ############ Pricing ####################
 pricing:
-  enable : true
+  enable : false
   title : "Get _Ticket_"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:

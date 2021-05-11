@@ -391,7 +391,7 @@
 							width: 37%;
 						}
 						@include mobile {
-							width: 48%;
+							width: 100%;
 						}
 					}
 					.speaker{
@@ -403,7 +403,7 @@
 							width: 60%;
 						}
 						@include mobile {
-							width: 50%;
+							display: none;
 						}
 						img {
 							@include mobile {
@@ -413,8 +413,8 @@
 					}
 					.subject{
 						width: 30%;
-						@include large-desktop {
-							display: none;
+						@include mobile {
+							width: 100%;
 						}
 					}
 					.venue{
