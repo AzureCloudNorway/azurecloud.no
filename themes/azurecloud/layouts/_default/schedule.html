@@ -50,14 +50,14 @@
                       <span class="time">{{ .time }}</span>
                     </div>
                     <!-- Subject -->
-                    <div class="subject">{{ .subject }}</div>
+                    <div class="subject">{{ .subject | markdownify }}</div>
                     <!-- Speaker -->
                     <div class="speaker">
                       <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
                       <span class="name">{{.speaker}}</span>
                     </div>
                     <!-- Venue -->
-                    <div class="venue">{{ .venue | markdownify }}</div>
+                    <div class="venue">{{ .venue }}</div>
                   </div>
                 </li>
                 {{ end }}
