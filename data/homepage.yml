@@ -74,21 +74,21 @@ tab:
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register to _Eventre_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  title : "Share your event on _AzureCloud_"
+  content : "Send us your event. We are happy to share it here."
   form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "8 Speakers"
+  - name : "100 + sessions"
     icon : "fa-microphone"
     
-  - name : "500 + Seats"
+  - name : "4 User Groups"
     icon : "fa-flag"
     
-  - name : "300 tickets"
+  - name : "10k + attendees"
     icon : "fa-ticket"
     
-  - name : "3 days event"
+  - name : "1 + event/week"
     icon : "fa-calendar"
 
 
@@ -133,7 +133,7 @@ pricing:
 
 ############### Call to action ############
 call_to_action:
-  enable : true
+  enable : false
   title : "Get Ticket _Now!_"
   image : "images/speakers/speaker-ticket.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
