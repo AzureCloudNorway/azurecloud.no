@@ -96,7 +96,7 @@ logo_width = "100px"
 description = "Norwegian Azure User Groups"
 author = "Azure Cloud"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mdoyeayb"
 # copyright
 copyright = "Malvik Media 2021"
 
