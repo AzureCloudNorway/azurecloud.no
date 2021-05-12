@@ -51,7 +51,7 @@ speakers:
 tab:
   enable : true
   title : "Event Schedule"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : "Register to upcoming events."
   tablist:
   # tab item
   - name : "Azure"
