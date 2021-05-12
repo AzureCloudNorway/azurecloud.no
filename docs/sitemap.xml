@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.azurecloud.no/categories/advanced/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/tags/aks/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/events/aks-at-norway/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.azurecloud.no/tags/azure/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,6 +44,15 @@
     <loc>https://www.azurecloud.no/speaker/nnug/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.azurecloud.no/tags/apim/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/events/apim-at-norway/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/categories/intermediate/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.azurecloud.no/about/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -56,15 +74,6 @@
     <loc>https://www.azurecloud.no/events/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/events/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/events/post-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/events/post-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/tags/events/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -74,12 +83,6 @@
     <loc>https://www.azurecloud.no/contact/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/tags/object/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/object/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/faq/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -87,12 +90,6 @@
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/speaker/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/tags/planner/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/planner/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/events/</loc>
@@ -105,12 +102,6 @@
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/testimonial/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/tags/upcoming/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/upcoming/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
 </urlset>

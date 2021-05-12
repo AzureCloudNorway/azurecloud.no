@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AKS on Azure Cloud Norway</title>
+    <link>https://www.azurecloud.no/tags/aks/</link>
+    <description>Recent content in AKS on Azure Cloud Norway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.azurecloud.no/tags/aks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AKS at Norway</title>
+      <link>https://www.azurecloud.no/events/aks-at-norway/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.azurecloud.no/events/aks-at-norway/</guid>
+      <description>How are Norwegian organizations like Vipps, Elkjøp and NRK using Azure Kubernetes Service (AKS), and how does Microsoft support them?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.azurecloud.no/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Advanced</title>
+      <link>https://www.azurecloud.no/categories/advanced/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.azurecloud.no/categories/advanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beginners</title>
       <link>https://www.azurecloud.no/categories/beginners/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.azurecloud.no/categories/beginners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermediate</title>
+      <link>https://www.azurecloud.no/categories/intermediate/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.azurecloud.no/categories/intermediate/</guid>
       <description></description>
     </item>
     
@@ -39,33 +57,6 @@
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://www.azurecloud.no/categories/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>object</title>
-      <link>https://www.azurecloud.no/categories/object/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://www.azurecloud.no/categories/object/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>planner</title>
-      <link>https://www.azurecloud.no/categories/planner/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://www.azurecloud.no/categories/planner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>upcoming</title>
-      <link>https://www.azurecloud.no/categories/upcoming/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://www.azurecloud.no/categories/upcoming/</guid>
       <description></description>
     </item>
     
