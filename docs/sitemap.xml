@@ -11,17 +11,23 @@
     <loc>https://www.azurecloud.no/events/azure-fundamantals/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/categories/beginners/</loc>
-    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/categories/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/tags/devreal/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.azurecloud.no/categories/events/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.azurecloud.no/tags/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/tags/aks/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/events/aks-at-norway/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/speaker/azure-meetup-oslo/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
@@ -35,40 +41,13 @@
     <loc>https://www.azurecloud.no/speaker/nnug/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/categories/advanced/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/tags/aks/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/events/aks-at-norway/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/tags/apim/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/events/apim-at-norway/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/intermediate/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/about/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/tags/business/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/creative/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/events/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/tags/events/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/categories/events/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/contact/</loc>

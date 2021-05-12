@@ -7,7 +7,7 @@ video: n0aIx4Lbt-0
 author: "Sven Malvik (Host)"
 author_id: "https://www.linkedin.com/in/svenmalvik/"
 tags: ["Azure", "DEVREAL"]
-categories: ["Beginners"]
+categories: ["events"]
 description : "Learn the fundamentals of Azure."
 draft : false
 ---

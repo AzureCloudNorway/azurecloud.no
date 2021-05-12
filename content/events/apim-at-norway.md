@@ -1,13 +1,13 @@
 ---
 title : "APIM at Norway"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-12-11
-image: "images/events/devreal-azure-fundamentals.jpg"
+date: 2020-12-10
+image: "https://cdn.svenmalvik.com/images/devreal-apim_yt_cover.jpg"
 video: N2qGQU3GAh4
 author: "Sven Malvik (Host)"
 author_id: "https://www.linkedin.com/in/svenmalvik/"
 tags: ["Azure", "DEVREAL", "APIM"]
-categories: ["Intermediate"]
+categories: ["events"]
 description : "Learn how are Norwegian companies like Vipps, SATS, Orkla, Statsbygg, and DNV GL are using Azure API Management."
 draft : false
 ---
