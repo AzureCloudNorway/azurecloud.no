@@ -6,9 +6,3 @@ description : "Send us a message if you have any questions or want to __become a
 draft : false
 layout : "contact"
 ---
-
-__Azure Cloud - Norwegian Azure User Groups__
-
-Contact: Sven Malvik
-
-Adresse: Trettåsen 50, 2008 Fjerdingby, Norway

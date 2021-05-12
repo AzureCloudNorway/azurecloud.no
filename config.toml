@@ -132,35 +132,35 @@ name = "Azure Cloud"
 location = "Oslo, Norway"
 phone = "+47 948 225 79"
 email = "mail @ azurecloud.no"
-link = "jj"
+#link = "#"
 
 # cookies
 [params.cookies]
 enable = true
-expire_days = 20
+expire_days = 30
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+#[[params.social]]
+#title = "facebook"
+#icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
+#
+#[[params.social]]
+#title = "twitter"
+#icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
+#
+#[[params.social]]
+#title = "instagram"
+#icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
+#
+#[[params.social]]
+#title = "github"
+#icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
+#
+#[[params.social]]
+#title = "linkedin"
+#icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+#link = "#"
