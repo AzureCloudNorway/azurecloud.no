@@ -58,11 +58,30 @@ tab:
     date : ""
     tablist_items:
     # speaker
+    - speaker : "Bram van den Klingenberg"
+      subject : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277692038/'>Container Security on AKS with Aqua Security</a>"
+      venue : "Azure Meetup Oslo"
+      time : "15 Mai 6pm CET"
+
+    - speaker : "Lorenzo Barbieri"
+      subject : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691806/'>Securing a Hybrid PaaS-IaaS Solution in Azure</a>"
+      venue : "Azure Meetup Oslo"
+      time : "3 June 6pm CET"
+
+    - speaker : "Roberth Strand"
+      subject : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277692038/'>Introduction to Open Service Mesh</a>"
+      venue : "Azure UG Norway"
+      time : "8 June 11am CET"
+
     - speaker : "Chris Reddington"
       subject : "<a href='https://www.meetup.com/azure-meetup-oslo/events/277691938/'>Static Web Apps in Azure</a>"
       venue : "Azure Meetup Oslo"
-      time : "9 June 18:00 CET"
+      time : "9 June 6pm CET"
 
+    - speaker : "Maik van der Gaag"
+      subject : "<a href='https://www.meetup.com/Azure-User-Group-Norway/events/277916317/'>How to add additional security to Azure PaaS</a>"
+      venue : "Azure UG Norway"
+      time : "14 Sep 11am CET"
 
 ############ Registration ####################
 registration:
