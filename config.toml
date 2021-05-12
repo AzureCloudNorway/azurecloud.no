@@ -93,7 +93,7 @@ logo = "images/azurecloud-logo.png"
 logo_footer = "images/azurecloud-light-logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "Norwegian Azure User Groups"
 author = "Azure Cloud"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
