@@ -44,7 +44,7 @@ about:
 speakers:
   enable : true
   title : "Who _are we?_"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : "Norwegian user groups that contribute to the Azure community."
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################

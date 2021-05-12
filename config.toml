@@ -3,16 +3,11 @@ baseURL = "https://www.azurecloud.no"
 title = "Azure Cloud Norway"
 theme = "azurecloud"
 themesDir = "themes"
-# post pagination
 paginate = "3"
-# post excerpt
 summaryLength = "10"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
+#googleAnalytics = "" # example : UA-123-45
+#disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+#disableLanguages = [] # disable language from here
 
 
 ############################# Outputs ##############################
@@ -70,51 +65,26 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
-
 #[[menu.main]]
 #name = "Speaker"
 #url = "speaker"
-#weight = 3
+#weight = 2
 
 [[menu.main]]
-name = "Blog"
-url = "blog"
+weight = 3
+name = "Schedule"
+url = "schedule"
+
+[[menu.main]]
+name = "Events"
+url = "events"
 weight = 4
 
 [[menu.main]]
+name = "About"
+url = "about"
 weight = 5
-name = "Pages"
-hasChildren = true
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Gallery"
-  url = "gallery"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  url = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Schedule"
-  url = "schedule"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
-  
 [[menu.main]]
 name = "Contact"
 url = "contact"

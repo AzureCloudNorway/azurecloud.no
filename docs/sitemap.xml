@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.azurecloud.no/about/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-7/</loc>
+    <loc>https://www.azurecloud.no/speaker/azure-meetup-oslo/</loc>
+    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/speaker/aug/</loc>
+    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/speaker/iac/</loc>
+    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/speaker/nnug/</loc>
+    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/about/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/tags/business/</loc>
@@ -26,22 +35,22 @@
     <loc>https://www.azurecloud.no/categories/creative/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-1/</loc>
+    <loc>https://www.azurecloud.no/events/post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-2/</loc>
+    <loc>https://www.azurecloud.no/events/post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-3/</loc>
+    <loc>https://www.azurecloud.no/events/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-4/</loc>
+    <loc>https://www.azurecloud.no/events/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-5/</loc>
+    <loc>https://www.azurecloud.no/events/post-5/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/blog/post-6/</loc>
+    <loc>https://www.azurecloud.no/events/post-6/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/tags/events/</loc>
@@ -53,27 +62,6 @@
     <loc>https://www.azurecloud.no/contact/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/speaker/speaker-8/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://www.azurecloud.no/tags/object/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -81,9 +69,6 @@
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/faq/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://www.azurecloud.no/blog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/gallery/</loc>
@@ -96,6 +81,9 @@
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/categories/planner/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://www.azurecloud.no/events/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://www.azurecloud.no/pricing/</loc>
