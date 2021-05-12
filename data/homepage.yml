@@ -157,42 +157,10 @@ call_to_action:
 
 ############### Sponsors ##################
 sponsors:
-  enable : false
-  title : "Our _Sponsors_"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  enable : true
+  title : "Become a _Sponsor_"
+  content : "We are looking for sponsors that can help us to maintain this website."
   button:
     enable : true
     label : "Become a sponsor"
-    link : "#"
-  sponsor_group:
-  - name : "Platinum Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-      
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
-      link : "#"
+    link : "contact"
