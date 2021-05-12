@@ -110,7 +110,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Share event"
 icon = "images/icon/ticket.png"
-link = "/#registration"
+link = "https://azurecloud.no/#registration"
 
 # Subscription
 [params.subscription]
