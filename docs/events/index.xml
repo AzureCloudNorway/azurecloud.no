@@ -42,14 +42,5 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.</description>
     </item>
     
-    <item>
-      <title>Elementum purus id ultrices.</title>
-      <link>https://www.azurecloud.no/events/post-3/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://www.azurecloud.no/events/post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.</description>
-    </item>
-    
   </channel>
 </rss>
