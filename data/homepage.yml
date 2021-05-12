@@ -100,7 +100,7 @@ registration:
   - name : "10k + attendees"
     icon : "fa-ticket"
     
-  - name : "1 + event/week"
+  - name : "2 + event/month"
     icon : "fa-calendar"
 
 
