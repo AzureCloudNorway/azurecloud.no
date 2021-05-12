@@ -4,7 +4,7 @@ page_header_bg : "images/background/page-title-bg.jpg"
 date: 2021-05-11
 image: "images/events/devreal-azure-fundamentals.jpg"
 video: n0aIx4Lbt-0
-author: "Sven Malvik"
+author: "Sven Malvik (Host)"
 author_id: "https://www.linkedin.com/in/svenmalvik/"
 tags: ["Azure", "DEVREAL"]
 categories: ["Beginners"]
