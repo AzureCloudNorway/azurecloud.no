@@ -1,7 +1,7 @@
 ---
 title : "AKS at Norway"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2021-05-11
+date: 2021-02-11
 image: "images/events/devreal-azure-fundamentals.jpg"
 video: -UQmGM4r-rQ
 author: "Sven Malvik (Host)"
