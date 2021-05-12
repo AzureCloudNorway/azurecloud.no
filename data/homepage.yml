@@ -88,7 +88,7 @@ registration:
   enable : true
   title : "Share your event on _AzureCloud_"
   content : "Send us your event. We are happy to share it here."
-  form_action : "" # works with formspree.io
+  form_action : "https://formspree.io/f/mrgrpera" # works with formspree.io
 
   funfacts:
   - name : "100 + sessions"
