@@ -23,7 +23,7 @@
 										<h4>{{ .PublishDate.Format "02" }}<span>{{ .PublishDate.Format "Jan" }}</span></h4>
 									</div>
 									<div class="post-title">
-										<h2><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+										<h2><a href="{{ .Permalink }}">{{ .Title | truncate 30 | markdownify }}</a></h2>
 									</div>
 									<div class="post-meta">
 										<ul class="list-inline">
@@ -32,10 +32,13 @@
 												<a href="{{ .Params.author_id | absURL }}">{{ .Params.author }}</a>
 											</li>
 											<li class="list-inline-item">
+												<!--
                         <i class="fa fa-tag"></i>
                         {{ range .Params.tags }}
                         <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}">{{. | humanize}}</a>
+						
                         {{ end }}
+						-->
 											</li>
 										</ul>
 									</div>

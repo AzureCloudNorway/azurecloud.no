@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Azure Cloud Norway</title>
+    <link>https://www.azurecloud.no/tags/data/</link>
+    <description>Recent content in Data on Azure Cloud Norway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.azurecloud.no/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing for Linux and Windows on Windows using WSL</title>
+      <link>https://www.azurecloud.no/events/nnug-scott-hanselman/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.azurecloud.no/events/nnug-scott-hanselman/</guid>
+      <description>Hey friends!
+What is the meaning of life? Should you pour milk before cereal or cereal before milk?</description>
+    </item>
+    
+  </channel>
+</rss>
